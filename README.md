@@ -24,5 +24,17 @@ Output
 
     -0.59788
     
+Now we can change the values of the variables and calculate the value of the expression with the new values of the variables   
+
+    x = 1.34;
+	y = 45.8765;
+	set_x(x), set_y(y);
+	a = calculate();
+	std::cout << a << std::endl;
+    
+Output   
+
+    -1.29234
+    
 
     
