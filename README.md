@@ -42,5 +42,5 @@ You can find an example of using this module in the [math-plotter](https://githu
 
 # How does it work
 
-Based on the character-by-character analysis of the expression string, a binary expression tree is created, which is converted into an inverse Polish record by the method of recursive descent, represented in the machine's memory as an ordinary one-dimensional array (std::vector). The calculation uses a stack calculator algorithm that works with reverse Polish notation.
+Based on the character-by-character analysis of the expression string, a binary expression tree is created, which is converted into an inverse Polish record by method of recursive descent, represented in the machine's memory as an ordinary one-dimensional array (std::vector). The calculation uses a stack calculator algorithm that works with reverse Polish notation.
     
