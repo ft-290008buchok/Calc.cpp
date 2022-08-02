@@ -4,6 +4,7 @@ This library is for parsing a string mathematical expression and calculating its
 signatures of trigonometric functions sin(), cos(), tg(), ctg() are also supported.   
 
 #Example
+We want to parse the expression - calling the processing_expr() function to pre-process the expression   
 
     std::string s = "sin(x+y)-1.239+x*x/y";
     processing_expr(s);
