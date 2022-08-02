@@ -10,5 +10,19 @@ We want to parse the expression - calling the processing_expr() function to pre-
     std::string s = "sin(x+y)-1.239+x*x/y";
     processing_expr(s);
     
+Next, set the values of the variables   
+
+    float x = 1; y = 2;
+    set_x(x), set_y(y);
+    
+And calculate the value of the expression given x and y   
+
+    float a = calculate();
+    std::cout<<a<<std::endl;
+    
+Output
+
+    -0.59788
+    
 
     
