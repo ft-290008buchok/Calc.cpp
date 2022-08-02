@@ -10,13 +10,9 @@ signatures of trigonometric functions sin(), cos(), tg(), ctg() are also support
  <body> 
 
   <p><code>
-    function checkParent (src, dest) {\n
-     while (src != null) {<Br>
-       if (src.tagName == dest) return src<Br>
-        src = src.parentElement<Br>
-     }<Br>
-     return null<Br>
-    }</code></p>
+    std::string s = "sin(x+y)-1.239+x*x/y";
+processing_expr(s);
+  </code></p>
 
  </body>
 </html>
