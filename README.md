@@ -1,7 +1,6 @@
 # mathematical-expression-parser
 
-This library is for parsing a string mathematical expression and calculating its value. The expression can contain two variables "x" and "y",   
-signatures of trigonometric functions sin(), cos(), tg(), ctg() are also supported.   
+This library is for parsing a string mathematical expression and calculating its value. The expression can contain two variables "x" and "y", signatures of trigonometric functions sin(), cos(), tg(), ctg() are also supported.   
 
 # Example
 
@@ -36,5 +35,8 @@ Output
 
     -1.29234
     
+# Where it can be applied
 
+This library allows you to calculate at a very high speed and can be used as a computing engine wherever multiple calculations of the value of an analytically specified mathematical expression are required - various calculators, plotters, and the like.   
+You can find an example of using this module in the mathplot project here 
     
