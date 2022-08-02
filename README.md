@@ -10,7 +10,7 @@ signatures of trigonometric functions sin(), cos(), tg(), ctg() are also support
  <body> 
 
   <p><code>
-    std::string s = "sin(x+y)-1.239+x*x/y";<br>
+    std::string s = "sin(x+y)-1.239+x*x/y"; <br>
     processing_expr(s);
   </code></p>
 
