@@ -6,10 +6,7 @@ signatures of trigonometric functions sin(), cos(), tg(), ctg() are also support
 #Example
 
 <html>
- <head>
-  <meta charset="utf-8">
-  <title>Тег CODE</title>
- </head>  
+
  <body> 
 
   <p>Код программы</p>
