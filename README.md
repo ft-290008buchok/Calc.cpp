@@ -9,7 +9,6 @@ signatures of trigonometric functions sin(), cos(), tg(), ctg() are also support
 
  <body> 
 
-  <p>Код программы</p>
   <p><code>
     function checkParent (src, dest) {<Br>
      while (src != null) {<Br>
