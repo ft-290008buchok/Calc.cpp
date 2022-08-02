@@ -40,7 +40,7 @@ Output
 This library allows you to calculate at a very high speed and can be used as a computing engine wherever multiple calculations of the value of an analytically specified mathematical expression are required - various calculators, plotters, and the like.   
 You can find an example of using this module in the [math-plotter](https://github.com/ft-290008buchok/Math-Plotter) project.   
 
-# how does it work
+# How does it work
 
 Based on the character-by-character analysis of the expression string, a binary expression tree is created, which is converted into an inverse Polish record, represented in the machine's memory as an ordinary one-dimensional array (std::vector). The calculation uses a stack calculator algorithm that works with reverse Polish notation.
     
