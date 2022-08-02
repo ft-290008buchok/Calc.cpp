@@ -5,6 +5,5 @@ signatures of trigonometric functions sin(), cos(), tg(), ctg() are also support
 
 #Example
 
-We want to parse the expression
-<"sin(x+y)-1.239+x*x/y">.
+We want to parse the expression <sin(x+y)-1.239+x*x/y>. Calling the processing_expr() function to pre-process the expression.
 
