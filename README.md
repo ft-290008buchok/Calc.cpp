@@ -10,7 +10,7 @@ signatures of trigonometric functions sin(), cos(), tg(), ctg() are also support
  <body> 
 
   <p><code>
-    function checkParent (src, dest) {<Br>
+    function checkParent (src, dest) {   
      while (src != null) {<Br>
        if (src.tagName == dest) return src<Br>
         src = src.parentElement<Br>
