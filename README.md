@@ -41,11 +41,7 @@ You don't need to install anything, just add the calc.h header file, the calc.cp
 
     #include"calc.h"
 
-and compile the project.
-# Where it can be applied
-
-This library allows you to calculate at a very high speed and can be used as a computing engine wherever multiple calculations of the value of an analytically specified mathematical expression are required - various calculators, plotters, and the like.   
-You can find an example of using this module in the [math-plotter](https://github.com/ft-290008buchok/Math-Plotter) project.   
+and compile the project.   
 
 # How does it work
 
@@ -53,3 +49,7 @@ Based on the character-by-character analysis of the expression string, a binary 
     
 # 
 If you liked this library, you can put a star to this repository to make it more popular 😃!
+# Where it can be applied
+
+This library allows you to calculate at a very high speed and can be used as a computing engine wherever multiple calculations of the value of an analytically specified mathematical expression are required - various calculators, plotters, and the like.   
+You can find an example of using this module in the [math-plotter](https://github.com/ft-290008buchok/Math-Plotter) project.   
