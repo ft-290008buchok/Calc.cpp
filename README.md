@@ -1,4 +1,4 @@
-# mathematical-expression-parser
+# mathematical-expression-parser Calc.cpp
 
 This library is for parsing a string mathematical expression and calculating its value. The expression can contain two variables "x" and "y", signatures of trigonometric functions sin(), cos(), tg(), ctg() are also supported. The library is written in C++, and C++ does not have a ready-made module for working with string mathematical expressions, so this library can be very useful in many C++ projects. If you read on, you will see how simple and convenient it is.   
 
