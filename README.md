@@ -48,7 +48,7 @@ and compile the project.
 Based on the character-by-character analysis of the expression string, a binary expression tree is created, which is converted into an inverse Polish record by method of recursive descent, represented in the machine's memory as an ordinary one-dimensional array (std::vector). The calculation uses a stack calculator algorithm that works with reverse Polish notation.
     
 # 
-If you liked this library, you can put a star to this repository to make it more popular 😃!   
+If you liked this library, you can put an asterisk to this repository to give it strength 😃!   
 # 
 # Where it can be applied
 
