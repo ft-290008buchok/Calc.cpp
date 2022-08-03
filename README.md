@@ -39,7 +39,7 @@ Output
 # Installation
 You don't need to install anything, just add the calc.h header file, the calc.cpp implementation file, to your C++ project, connect the header file to where you want to use Calc.cpp   
 
-    #include<calc.h>
+    #include"calc.h"
 
 and compile the project.
 # Where it can be applied
