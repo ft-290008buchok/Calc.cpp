@@ -19,7 +19,7 @@ Next, set the values of the variables
 And calculate the value of the expression given x and y   
 
     float a = calculate();
-    std::cout<<a<<std::endl;
+    std::cout << a << std::endl;
     
 Output
 
