@@ -25,6 +25,7 @@ Output
 
     -0.59788
     
+that is, sin(x+y)-1.239+x*x/y for x = 1, y = 2 is equal to -0.59788
 Now we can change the values of the variables and calculate the value of the expression with the new values of the variables   
 
     x = 1.34;
