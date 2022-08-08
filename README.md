@@ -1,7 +1,8 @@
 # 
 ![text](https://user-images.githubusercontent.com/71639489/183302250-67b8edad-0c06-4f82-b2e6-519addf2eafe.png)
+![rombe](https://user-images.githubusercontent.com/71639489/183351652-779cc54d-c911-4132-a27b-b7787afa2459.png)
+![logotype — копия](https://user-images.githubusercontent.com/71639489/183351672-b9ae1cdb-665f-4376-bbfc-c2e72973f368.png)
 
-![logotype — копия](https://user-images.githubusercontent.com/71639489/183302149-b197b95a-ae93-4187-871e-c183bd0b26cb.png)
  
 # 
 
